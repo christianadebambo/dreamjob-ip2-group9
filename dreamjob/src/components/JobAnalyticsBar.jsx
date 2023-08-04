@@ -32,7 +32,7 @@ export const JobAnalyticsBar = () => {
         },
         headers: {
           "X-RapidAPI-Key":
-            "70c8c4ea68msh69af2e0464b0e6bp1b534djsn0d794d2671a3",
+            "349d46801fmsh04d385960cf90b8p19885bjsnbb1f79fcac87",
           "X-RapidAPI-Host": "job-salary-data.p.rapidapi.com",
         },
       };
@@ -48,7 +48,7 @@ export const JobAnalyticsBar = () => {
         },
         headers: {
           "X-RapidAPI-Key":
-            "70c8c4ea68msh69af2e0464b0e6bp1b534djsn0d794d2671a3",
+            "349d46801fmsh04d385960cf90b8p19885bjsnbb1f79fcac87",
           "X-RapidAPI-Host": "job-salary-data.p.rapidapi.com",
         },
       };
